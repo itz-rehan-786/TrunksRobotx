@@ -1,6 +1,6 @@
-<h1 align="center"><b>Trunks Robot</b></h1>
+<h1 align="center"><b>𝗗𝗮𝗻𝗴𝗲𝗿 𝗧𝗿𝘂𝗻𝗸𝘀</b></h1>
 
-<h4 align="center">A Advanced Powerful, Smart And Intelligent Group Management Bot With Many And Powerful Features <br> ... Written with Pyrogram and Telethon...</h4>
+<h4 align="center">𝐈 𝐀𝐌 𝐀 𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐈 𝐖𝐈𝐋𝐋 𝐃𝐄𝐒𝐓𝐑𝐎𝐘 𝐄𝐕𝐈𝐋𝐒 𝐖𝐈𝐓𝐇 𝐌𝐘 𝐏𝐎𝐖𝐄𝐑𝐒...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/W2HGalaxy-OP/SuzieRoBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
@@ -15,21 +15,26 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-## Available on Telegram as [@TrunksRobot](https://t.me/TrunksRobot)
+### You Can Easily To Find Trunks On Telegram ....
 
-## ✨ Easy To Deploy ✨
-The easiest way to deploy this Bot
+<p align='left'>
+ <a href="https://telegram.dog/TrunksRobot"><img src="https://img.shields.io/badge/TrunksRobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
+
+
+## 🎆Easy To Deploy🎆
+The Easiest Way To Deploy This Bot
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/GT-ASH/TrunksRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-## Developer 💻 
+## Developers 💻 
 [![GT_ASH](https://img.shields.io/badge/GT_ASH-blue?style=for-the-badge&logo=appveyor)](https://t.me/GT_SPIDER)
 
 [![CTPRO](https://img.shields.io/badge/CT_PRO-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
 
-## Credits
+## Creditz🎖
 
 - Kurumibot
+
 - Image-Editorbot
 
 
