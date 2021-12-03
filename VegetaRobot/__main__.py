@@ -67,9 +67,11 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-───「 [Trunks The Robot](https://telegra.ph/file/448a8a49032de9022f2b8.jpg) 」───
-'𝐈 𝐀𝐌 𝐀 𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐈 𝐖𝐈𝐋𝐋 𝐃𝐄𝐒𝐓𝐑𝐎𝐘 𝐄𝐕𝐈𝐋𝐒 𝐖𝐈𝐓𝐇 𝐌𝐘 𝐏𝐎𝐖𝐄𝐑𝐒...'
-──'『ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ』...
+─►𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒◄─
+Hello ! {},
+𝙸 A𝚖 Trunks 𝙰 Danger G𝚛𝚘𝚞𝚙 M𝚊𝚗𝚊𝚐𝚎𝚛 Bot N𝚒𝚌𝚎 T𝚘 M𝚎𝚎𝚝 Y𝚘𝚞!
+➛ Tʀʏ Tᕼᴇ Hᴇʟᴘ Bᴜᴛᴛᴏɴs Bᴇʟᴏᴡ Tᴏ Kɴᴏᴡ Mʏ Aʙʜʟɪᴛʜᴇs ××
+POWERED BY 🦄Tᴇᴀᴍ Pᴇɢᴀsᴜs(https://telegra.ph/file/448a8a49032de9022f2b8.jpg) 」───
 
 buttons = [
     [
