@@ -94,23 +94,20 @@ buttons = [
     ]
 
 HELP_STRINGS = """
-Whassup Buddy Me Trunks Is Here For You! 
-I Will Use My Powers To Help You To Manage Your Groups!
-*Main* commands available :
- ☫ /help: PM's you this message.
- ☫ /help <module name>: PM's you info about that module.
- ☫ /settings:
-   ☫ in PM: will send you your settings for all supported modules.
-   ☫ in a group: will redirect you to pm, with all that chat's settings.
-For all command use / [or](https://telegra.ph/file/bb320cdcad67c9f90610f.jpg) ! 
-""".format(
-    dispatcher.bot.first_name, ""
-    if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\nKindly use ! for commands if / is not working\n")
+Hey there, I'm Trunks!
+To make me functional, make sure that i have enough rights in your group.
+Helpful commands:
+- /start: Starts me! You've probably already used this.
+- /help: Sends this message; I'll tell you more about myself!
+- /donate: Gives you info on how to support me and my creator.
+If you want to report bugs or have any questions on how to use me then feel free to reach out: @VegetaSupport.
+All commands can be used with the following: (/),(!),(?),(.),(~)
+List of all the Modules:
 
-HELP_MSG = "Click the button below to get help manu in your pm."
+HELP_MSG = "Click the button below to get help menu in your pm."
 DONATE_STRING = """Contact to **@UnitedSupport**"""
-HELP_IMG= "https://telegra.ph/file/7b7d6064fa9b4276d4ee3.jpg"
-PM_PHOTO= "https://telegra.ph/file/eb183f8736336f3df1cb4.mp4"
+HELP_IMG= "https://telegra.ph/file/0ad88c50f9bc5ac0550bd.mp4"
+PM_PHOTO= "https://telegra.ph/file/e149341687a745a8adb7b.mp4"
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -352,7 +349,7 @@ def vegeta_about_callback(update: Update, context: CallbackContext):
                 ]
             ),
         )
-    elif query.data == "vegeta_back":
+    elif query.data == "Trunks_back":
         query.message.edit_text(
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
