@@ -35,5 +35,6 @@ The easiest way to deploy this Bot
 
 
 # 🗡️ Support
-<a href="https://t.me/UnitedSupport"><img src="https://img.shields.io/badge/Support 🎉-Pegasus%20Support-blue.svg?logo=telegram"></a>
-<a href="https://t.me/PigasusUpdates"><img src="https://img.shields.io/badge/Updates 💥-Pegasus%20Updates-blue.svg?logo=telegram"></a>
+<a href="https://t.me/UnitedSupport"><img src="https://img.shields.io/badge/Support 🎉-Pegasus%20Support-yellow.svg?logo=telegram"></a>
+
+<a href="https://t.me/PigasusUpdates"><img src="https://img.shields.io/badge/Updates 💥-Pegasus%20Updates-red.svg?logo=telegram"></a>
