@@ -68,25 +68,21 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 ───「 [Trunks The Robot](https://telegra.ph/file/448a8a49032de9022f2b8.jpg) 」───
-*Whassup! {},*
-*I am an Anime themed advance group management bot with a lot of New Features.*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-♆ *Uptime:* `{}`
-♆ `{}` *users, across* `{}` *chats.*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-☫ Checkout The Help Buttons To Check My Abilities ✌
-"""
+
+𝐈 𝐀𝐌 𝐀 𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐈 𝐖𝐈𝐋𝐋 𝐃𝐄𝐒𝐓𝐑𝐎𝐘 𝐄𝐕𝐈𝐋𝐒 𝐖𝐈𝐓𝐇 𝐌𝐘 𝐏𝐎𝐖𝐄𝐑𝐒...
+
+──『ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ』
 
 buttons = [
     [
                         InlineKeyboardButton(
-                            text="Add Me ⚡",
+                            text="☑️ Add Trunks To Group ☑️",
                             url="t.me/TrunksRobot?startgroup=true"),
-                       InlineKeyboardButton(text="Bot Support ⚡", url="t.me/UnitedSupport"),
+                       InlineKeyboardButton(text="🔰 Support", url="t.me/UnitedSupport"),
                     ],
                    [
-                       InlineKeyboardButton(text="🔐 Help ", callback_data="help_back"),
-                       InlineKeyboardButton(text="📊 Network", url="t.me/pegasusXteam"),
+                       InlineKeyboardButton(text="🆘 Help", callback_data="help_back"),
+                       InlineKeyboardButton(text="🌐 Network", url="t.me/pegasusXteam"),
                        InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
                      ],
                     [                  
@@ -108,7 +104,7 @@ I Will Use My Powers To Help You To Manage Your Groups!
  ☫ /settings:
    ☫ in PM: will send you your settings for all supported modules.
    ☫ in a group: will redirect you to pm, with all that chat's settings.
-For all command use / [or](https://telegra.ph/file/0f0f7185cdade57251329.jpg) ! 
+For all command use / [or](https://telegra.ph/file/bb320cdcad67c9f90610f.jpg) ! 
 """.format(
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\nKindly use ! for commands if / is not working\n")
