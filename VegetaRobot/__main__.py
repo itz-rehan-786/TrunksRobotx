@@ -74,12 +74,12 @@ PM_START_TEXT = """
 buttons = [
     [
                         InlineKeyboardButton(
-                            text="☑️ Add Trunks To Group ☑️",
+                            text="☑️ Add Trunks To Group ☑️"),
                             url="t.me/TrunksRobot?startgroup=true"),
                        InlineKeyboardButton(text="🔰 Support", url="t.me/UnitedSupport"),
                     ],
                    [
-                       InlineKeyboardButton(text="🆘 Help", callback_data="help_back"),
+                       InlineKeyboardButton(text="🆘 Help ", callback_data="help_back"),
                        InlineKeyboardButton(text="🌐 Network", url="t.me/pegasusXteam"),
                        InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
                      ],
