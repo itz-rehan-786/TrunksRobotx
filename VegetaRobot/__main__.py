@@ -67,11 +67,11 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-─►𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒◄─
+─►𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒◄─ (https://telegra.ph/file/448a8a49032de9022f2b8.jpg)
 Hello ! {},
 𝙸 A𝚖 Trunks 𝙰 Danger G𝚛𝚘𝚞𝚙 M𝚊𝚗𝚊𝚐𝚎𝚛 Bot N𝚒𝚌𝚎 T𝚘 M𝚎𝚎𝚝 Y𝚘𝚞!
 ➛ Tʀʏ Tᕼᴇ Hᴇʟᴘ Bᴜᴛᴛᴏɴs Bᴇʟᴏᴡ Tᴏ Kɴᴏᴡ Mʏ Aʙʜʟɪᴛʜᴇs ××
-POWERED BY 🦄Tᴇᴀᴍ Pᴇɢᴀsᴜs(https://telegra.ph/file/448a8a49032de9022f2b8.jpg) 」───
+POWERED BY 🦄Tᴇᴀᴍ Pᴇɢᴀsᴜs
 
 buttons = [
     [
@@ -112,12 +112,12 @@ HELP_IMG= "https://telegra.ph/file/0ad88c50f9bc5ac0550bd.mp4"
 PM_PHOTO= "https://telegra.ph/file/e149341687a745a8adb7b.mp4"
 
 IMPORTED = {}
-MIGRATEABLE = []
+MIGRATEABLE = {}
 HELPABLE = {}
-STATS = []
-USER_INFO = []
-DATA_IMPORT = []
-DATA_EXPORT = []
+STATS = {}
+USER_INFO = {}
+DATA_IMPORT = {}
+DATA_EXPORT = {}
 CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
