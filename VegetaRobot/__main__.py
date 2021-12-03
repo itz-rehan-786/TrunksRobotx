@@ -3,10 +3,10 @@ import time
 import re
 from sys import argv
 from typing import Optional
-import VegetaRobot.modules.sql.users_sql as sql
+import TrunksRobot.modules.sql.users_sql as sql
 
 
-from VegetaRobot import (
+from TrunksRobot import (
     ALLOW_EXCL,
     CERT_PATH,
     DONATION_LINK,
@@ -24,10 +24,10 @@ from VegetaRobot import (
     
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
-from VegetaRobot.modules import ALL_MODULES
-from VegetaRobot.modules.helper_funcs.chat_status import is_user_admin
-from VegetaRobot.modules.helper_funcs.alternate import typing_action
-from VegetaRobot.modules.helper_funcs.misc import paginate_modules
+from TrunksRobot.modules import ALL_MODULES
+from TrunksRobot.modules.helper_funcs.chat_status import is_user_admin
+from TrunksRobot.modules.helper_funcs.alternate import typing_action
+from TrunksRobot.modules.helper_funcs.misc import paginate_modules
 from telegram import (InlineKeyboardButton, InlineKeyboardMarkup, ParseMode,
                       Update)
 from telegram.error import (BadRequest, ChatMigrated, NetworkError,
@@ -68,10 +68,8 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 ───「 [Trunks The Robot](https://telegra.ph/file/448a8a49032de9022f2b8.jpg) 」───
-
-𝐈 𝐀𝐌 𝐀 𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐈 𝐖𝐈𝐋𝐋 𝐃𝐄𝐒𝐓𝐑𝐎𝐘 𝐄𝐕𝐈𝐋𝐒 𝐖𝐈𝐓𝐇 𝐌𝐘 𝐏𝐎𝐖𝐄𝐑𝐒...
-
-──『ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ』
+'𝐈 𝐀𝐌 𝐀 𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐈 𝐖𝐈𝐋𝐋 𝐃𝐄𝐒𝐓𝐑𝐎𝐘 𝐄𝐕𝐈𝐋𝐒 𝐖𝐈𝐓𝐇 𝐌𝐘 𝐏𝐎𝐖𝐄𝐑𝐒...'
+──'『ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ』...
 
 buttons = [
     [
