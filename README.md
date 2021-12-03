@@ -23,10 +23,10 @@ The easiest way to deploy this Bot
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/GT-ASH/TrunksRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-## Devloper
+## Developer 💻 
+[![GT_ASH](https://img.shields.io/badge/GT_ASH-blue?style=for-the-badge&logo=appveyor)](https://t.me/GT_SPIDER)
 
-#### • [GT ASH](https://github.com/GT-ASH) (OWNER) 
-
+[![CTPRO](https://img.shields.io/badge/CT_PRO-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
 
 ## Special Credits
 
