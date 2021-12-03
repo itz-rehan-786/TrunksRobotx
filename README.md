@@ -1,21 +1,17 @@
 <h1 align="center"><b>𝐃𝐚𝐧𝐠𝐞𝐫 𝐓𝐫𝐮𝐧𝐤𝐬</b></h1>
 
 <h4 align="center">𝐈 𝐀𝐌 𝐀 𝐃𝐀𝐍𝐆𝐄𝐑 𝐓𝐑𝐔𝐍𝐊𝐒 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐈 𝐖𝐈𝐋𝐋 𝐃𝐄𝐒𝐓𝐑𝐎𝐘 𝐄𝐕𝐈𝐋𝐒 𝐖𝐈𝐓𝐇 𝐌𝐘 𝐏𝐎𝐖𝐄𝐑𝐒...</h4>
-<p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/W2HGalaxy-OP/SuzieRoBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
-</p>
 
 <p align="center"><a href="https://t.me/TrunksRobot"><img src="https://telegra.ph/file/5713b5e609cd586bd98f7.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://github.com/GT-ASH/TrunksRobotx"> <img src="https://img.shields.io/github/repo-size/Ctzfamily/VegetaRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/GT-ASH/TrunksRobotx/commits/prince"> <img src="https://img.shields.io/github/last-commit/Ctzfamily/VegetaRobot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/GT-ASH/GT-ASH/issues"> <img src="https://img.shields.io/github/issues/Ctzfamily/VegetaRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+
+  </a>
 </p>
 
-### You Can Easily To Find Trunks On Telegram ....
+### You Can Easily To Find Me In Telegram....
 
 <p align='left'>
  <a href="https://telegram.dog/TrunksRobot"><img src="https://img.shields.io/badge/TrunksRobot-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=yellow" alt="Find on Telegram"></a></br></br>
@@ -33,10 +29,11 @@ The Easiest Way To Deploy This Bot
 
 ## Creditz🎖
 
-- Kurumibot
+[![VegataRobot](https://img.shields.io/badge/VegataRobot-red?style=for-the-badge&logo=appveyor)](https://t.me/VegataRobot)
 
-- Image-Editorbot
+[![Neko](https://img.shields.io/badge/NekoRobot-pink?style=for-the-badge&logo=appveyor)](https://t.me/NekoxRobot)
 
+[![Valt](https://img.shields.io/badge/ValtAoi-blue?style=for-the-badge&logo=appveyor)](https://t.me/VALTAOITHEBOT)
 
 # 🗡️ Support
 <a href="https://t.me/UnitedSupport"><img src="https://img.shields.io/badge/Support 🎉-Pegasus%20Support-yellow.svg?logo=telegram"></a>
