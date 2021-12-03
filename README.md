@@ -15,7 +15,6 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> If You're Going To Fork This Repo Then Don't Forget To Hit a Star ✯
 ## Available on Telegram as [@TrunksRobot](https://t.me/TrunksRobot)
 
 ## ✨ Easy To Deploy ✨
@@ -28,7 +27,7 @@ The easiest way to deploy this Bot
 
 [![CTPRO](https://img.shields.io/badge/CT_PRO-red?style=for-the-badge&logo=appveyor)](https://t.me/CTZFAMILY) 
 
-## Special Credits
+## Credits
 
 - Kurumibot
 - Image-Editorbot
