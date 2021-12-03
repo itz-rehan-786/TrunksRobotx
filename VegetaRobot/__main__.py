@@ -67,7 +67,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-───「 [Vegeta The Robot](https://telegra.ph/file/0c48783bf8a446a82b30d.jpg) 」───
+───「 [Trunks The Robot](https://telegra.ph/file/448a8a49032de9022f2b8.jpg) 」───
 *Whassup! {},*
 *I am an Anime themed advance group management bot with a lot of New Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -81,12 +81,12 @@ buttons = [
     [
                         InlineKeyboardButton(
                             text="Add Me ⚡",
-                            url="t.me/VegetaRobot?startgroup=true"),
-                       InlineKeyboardButton(text="Bot Support ⚡", url="t.me/vegetaSupport"),
+                            url="t.me/TrunksRobot?startgroup=true"),
+                       InlineKeyboardButton(text="Bot Support ⚡", url="t.me/UnitedSupport"),
                     ],
                    [
                        InlineKeyboardButton(text="🔐 Help ", callback_data="help_back"),
-                       InlineKeyboardButton(text="📊 Network", url="t.me/pegasusNetworkofficial"),
+                       InlineKeyboardButton(text="📊 Network", url="t.me/pegasusXteam"),
                        InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
                      ],
                     [                  
@@ -100,7 +100,7 @@ buttons = [
     ]
 
 HELP_STRINGS = """
-Whassup Buddy Me Vegeta is here! 
+Whassup Buddy Me Trunks Is Here For You! 
 I Will Use My Powers To Help You To Manage Your Groups!
 *Main* commands available :
  ☫ /help: PM's you this message.
@@ -114,9 +114,9 @@ For all command use / [or](https://telegra.ph/file/0f0f7185cdade57251329.jpg) !
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\nKindly use ! for commands if / is not working\n")
 
 HELP_MSG = "Click the button below to get help manu in your pm."
-DONATE_STRING = """Contact to **@PegasuaSupportofficial**"""
-HELP_IMG= "https://telegra.ph/file/9d2c6e3b28afe7619856e.jpg"
-PM_PHOTO= "https://telegra.ph/file/374d0887609fc70e093bd.mp4"
+DONATE_STRING = """Contact to **@UnitedSupport**"""
+HELP_IMG= "https://telegra.ph/file/7b7d6064fa9b4276d4ee3.jpg"
+PM_PHOTO= "https://telegra.ph/file/eb183f8736336f3df1cb4.mp4"
 
 IMPORTED = {}
 MIGRATEABLE = []
