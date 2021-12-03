@@ -6,7 +6,7 @@
   <a href="https://github.com/W2HGalaxy-OP/SuzieRoBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/TrunksRobot"><img src="https://telegra.ph/file/58f76212b20994082b253.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/TrunksRobot"><img src="https://telegra.ph/file/5713b5e609cd586bd98f7.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/GT-ASH/TrunksRobotx"> <img src="https://img.shields.io/github/repo-size/Ctzfamily/VegetaRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
