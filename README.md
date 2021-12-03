@@ -29,7 +29,7 @@ The Easiest Way To Deploy This Bot
 
 ## Creditz🎖
 
-[![VegataRobot](https://img.shields.io/badge/VegataRobot-red?style=for-the-badge&logo=appveyor)](https://t.me/VegataRobot)
+[![VegetaRobot](https://img.shields.io/badge/VegetaRobot-red?style=for-the-badge&logo=appveyor)](https://t.me/VegetaRobot)
 
 [![Neko](https://img.shields.io/badge/NekoRobot-pink?style=for-the-badge&logo=appveyor)](https://t.me/NekoxRobot)
 
